@@ -1,6 +1,6 @@
 ># Calculadora simples
 
-![preview](./README/calculadora.png)
+![preview](./src/calculadora.png)
 
 Projeto feito para a praticas dos conhecimentos obtidos na semana.
 
